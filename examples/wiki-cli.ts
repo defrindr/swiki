@@ -1,4 +1,4 @@
-import { SWIKI } from './mod.ts'
+import { SWIKI } from "./mod.ts";
 
 const swiki = new SWIKI();
 

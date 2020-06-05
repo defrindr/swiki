@@ -1,3 +1,3 @@
-import { SWIKI } from '../mod.ts'
+import { SWIKI } from "../mod.ts";
 
-export { SWIKI }
+export { SWIKI };
