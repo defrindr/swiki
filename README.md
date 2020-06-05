@@ -12,7 +12,7 @@ make install
 ```
 * Try to using it
 ```
-deno run --allow-net mod.ts --help
+deno run --allow-net examples/wiki-cli.ts --help
 ```
 
 ## Example
